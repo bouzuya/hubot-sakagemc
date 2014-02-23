@@ -1,0 +1,31 @@
+{
+  "name": "hubot-sakagemc",
+  "version": "0.1.0",
+  "description": "A hubot-script for @sakagemc",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "flickrapi": "~0.3.13",
+    "q": "~1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/hubot-sakagemc"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-script"
+  ],
+  "author": "bouzuya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bouzuya/hubot-sakagemc/issues"
+  },
+  "homepage": "https://github.com/bouzuya/hubot-sakagemc"
+}
