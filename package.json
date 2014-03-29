@@ -1,6 +1,6 @@
 {
   "name": "hubot-sakagemc",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A hubot-script for retrieving @sakagemc 's photos.",
   "main": "index.js",
   "directories": {
