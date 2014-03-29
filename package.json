@@ -1,13 +1,14 @@
 {
   "name": "hubot-sakagemc",
   "version": "0.1.0",
-  "description": "A hubot-script for @sakagemc",
+  "description": "A hubot-script for retrieving @sakagemc 's photos.",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
     "flickrapi": "~0.3.13",
+    "lodash": "^2.4.1",
     "q": "~1.0.0"
   },
   "devDependencies": {},
