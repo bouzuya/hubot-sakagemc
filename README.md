@@ -2,6 +2,8 @@
 
 A Hubot script that display the [@sakagemc](https://twitter.com/sakagemc)'s photos.
 
+Use [sakagemc-api][gh:bouzuya/sakagemc-api] demo page ([http://sakagemc.herokuapp.com/](http://sakagemc.herokuapp.com/)).
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-sakagemc.git
@@ -52,3 +54,4 @@ ISC
 [travis-badge]: https://travis-ci.org/bouzuya/hubot-sakagemc.svg?branch=master
 [david-dm]: https://david-dm.org/bouzuya/hubot-sakagemc
 [david-dm-badge]: https://david-dm.org/bouzuya/hubot-sakagemc.png
+[gh:bouzuya/sakagemc-api]: https://github.com/bouzuya/sakagemc-api
