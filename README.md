@@ -17,8 +17,8 @@ or
     hubot> hubot sakagemc [<N>] - display the @sakagemc's photos.
 
     bouzuya> hubot sakagemc
-    hubot> 【 Tension 】流れに葛藤を与える
-    http://farm8.staticflickr.com/7430/11533404385_69fc4973b2.jpg
+    hubot> http://farm8.staticflickr.com/7430/11533404385_69fc4973b2.jpg
+    【 Tension 】流れに葛藤を与える
 
 See [`src/scripts/sakagemc.coffee`](src/scripts/sakagemc.coffee) for full documentation.
 
